@@ -1,0 +1,547 @@
+[
+  {
+    "albumId": 0,
+    "name": "From Genesis to Revelation",
+    "releaseYear": 1969,
+    "cover": "images/fgtr.jpg",
+    "artist": "Genesis",
+    "description": "From Genesis to Revelation is the debut studio album by Genesis, released in March 1969 on Decca Records.\n\nThe album originated from a collection of demos recorded in 1967 while the members of Genesis were pupils of Charterhouse in Godalming, Surrey.",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "Where The Sour Turns To Sweet",
+        "trackAudio": "audio/00.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "In The Beginning",
+        "trackAudio": "audio/01.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "Fireside Song",
+        "trackAudio": "audio/02.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "The Serpent",
+        "trackAudio": "audio/03.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "Am I Very Wrong?",
+        "trackAudio": "audio/04.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "In The Wilderness",
+        "trackAudio": "audio/05.wav"
+      },
+      {
+        "trackId": 6,
+        "trackName": "The Conqueror",
+        "trackAudio": "audio/06.wav"
+      },
+      {
+        "trackId": 7,
+        "trackName": "In Hiding",
+        "trackAudio": "audio/07.wav"
+      },
+      {
+        "trackId": 8,
+        "trackName": "One Day",
+        "trackAudio": "audio/08.wav"
+      },
+      {
+        "trackId": 9,
+        "trackName": "Window",
+        "trackAudio": "audio/09.wav"
+      },
+      {
+        "trackId": 10,
+        "trackName": "In Limbo",
+        "trackAudio": "audio/010.wav"
+      },
+      {
+        "trackId": 11,
+        "trackName": "Silent Sun",
+        "trackAudio": "audio/011.wav"
+      },
+      {
+        "trackId": 12,
+        "trackName": "A Place To Call My Own",
+        "trackAudio": "audio/012.wav"
+      }
+    ]
+  },
+  {
+    "albumId": 1,
+    "name": "Trespass",
+    "releaseYear": 1970,
+    "cover": "images/trespass.jpg",
+    "artist": "Genesis",
+    "description": "Trespass is the second studio album by Genesis. It was released in October 1970 on Charisma Records, and is their last album with original guitarist Anthony Phillips and their only one with drummer John Mayhew.",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "Looking For Someone",
+        "trackAudio": "audio/10.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "White Mountain",
+        "trackAudio": "audio/11.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "Visions Of Angels",
+        "trackAudio": "audio/12.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "Stagnation",
+        "trackAudio": "audio/13.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "Dusk",
+        "trackAudio": "audio/14.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "The Knife",
+        "trackAudio": "audio/15.wav"
+      }
+    ]
+  },
+  {
+    "albumId": 2,
+    "name": "Nursery Cryme",
+    "releaseYear": 1971,
+    "cover": "images/nurserycryme.jpg",
+    "artist": "Genesis",
+    "description": "Nursery Cryme was Genesis' first album to feature drummer/vocalist Phil Collins and guitarist Steve Hackett.\n\nThe album received a mixed response from critics and was not initially a commercial success; it did not enter the UK chart until 1974, when it reached its peak at No. 39.",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "The Musical Box",
+        "trackAudio": "audio/20.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "For Absent Friends",
+        "trackAudio": "audio/21.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "The Return Of The Giant Hogweed",
+        "trackAudio": "audio/22.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "Seven Stones",
+        "trackAudio": "audio/23.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "Harold The Barrel",
+        "trackAudio": "audio/24.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "Harlequin",
+        "trackAudio": "audio/25.wav"
+      },
+      {
+        "trackId": 6,
+        "trackName": "The Fountain Of Salmacis",
+        "trackAudio": "audio/26.wav"
+      }
+    ]
+  },
+  {
+    "albumId": 3,
+    "name": "Foxtrot",
+    "releaseYear": 1972,
+    "cover": "images/foxtrot.jpg",
+    "artist": "Genesis",
+    "description": "Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and received largely positive reviews. It went to number one in Italy, their first album reaching number one globally.\n\nIt features their longest recorded song, the 23-minute track \"Supper's Ready\".",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "Watcher Of The Skies",
+        "trackAudio": "audio/30.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "Time Table",
+        "trackAudio": "audio/31.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "Get 'Em Out By Friday",
+        "trackAudio": "audio/32.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "Can-Utility And The Coastliners",
+        "trackAudio": "audio/33.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "Horizons",
+        "trackAudio": "audio/34.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "Supper's Ready",
+        "trackAudio": "audio/35.wav"
+      }
+    ]
+  },
+  {
+    "albumId": 4,
+    "name": "Selling England By The Pound",
+    "releaseYear": 1973,
+    "cover": "images/sebtp.jpg",
+    "artist": "Genesis",
+    "description": "Selling England by the Pound is the fifth studio album by the English progressive rock band Genesis, released in September 1973 on Charisma Records.\n\nCritics and the band members themselves have given mixed opinions of the album, though guitarist Steve Hackett has said it is his favourite Genesis record.",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "Dancing With The Moonlit Knight",
+        "trackAudio": "audio/40.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "I Know What I Like (In Your Wardrobe)",
+        "trackAudio": "audio/41.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "Firth Of Fifth",
+        "trackAudio": "audio/42.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "More Fool Me",
+        "trackAudio": "audio/43.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "The Battle Of Epping Forest",
+        "trackAudio": "audio/44.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "After The Ordeal",
+        "trackAudio": "audio/45.wav"
+      },
+      {
+        "trackId": 6,
+        "trackName": "The Cinema Show",
+        "trackAudio": "audio/46.wav"
+      },
+      {
+        "trackId": 7,
+        "trackName": "Aisle Of Plenty",
+        "trackAudio": "audio/47.wav"
+      }
+    ]
+  },
+  {
+    "albumId": 5,
+    "name": "The Lamb Lies Down On Broadway",
+    "releaseYear": 1974,
+    "cover": "images/tlldob.jpg",
+    "artist": "Genesis",
+    "description": "The Lamb Lies Down on Broadway is the sixth studio album by the English progressive rock band Genesis. It is their last to feature original frontman Peter Gabriel.",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "The Lamb Lies Down On Broadway",
+        "trackAudio": "audio/50.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "Fly On A Windshield",
+        "trackAudio": "audio/51.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "Broadway Melody Of 1974",
+        "trackAudio": "audio/52.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "Cuckoo Cocoon",
+        "trackAudio": "audio/53.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "In The Cage",
+        "trackAudio": "audio/54.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "The Grand Parade Of Lifeless Packaging",
+        "trackAudio": "audio/55.wav"
+      },
+      {
+        "trackId": 6,
+        "trackName": "Back In N.Y.C.",
+        "trackAudio": "audio/56.wav"
+      },
+      {
+        "trackId": 7,
+        "trackName": "Hairless Heart",
+        "trackAudio": "audio/57.wav"
+      },
+      {
+        "trackId": 8,
+        "trackName": "Counting Out Time",
+        "trackAudio": "audio/58.wav"
+      },
+      {
+        "trackId": 9,
+        "trackName": "Carpet Crawlers",
+        "trackAudio": "audio/59.wav"
+      },
+      {
+        "trackId": 10,
+        "trackName": "The Chamber Of 32 Doors",
+        "trackAudio": "audio/510.wav"
+      },
+      {
+        "trackId": 11,
+        "trackName": "Lilywhite Lilith",
+        "trackAudio": "audio/511.wav"
+      },
+      {
+        "trackId": 12,
+        "trackName": "The Waiting Room",
+        "trackAudio": "audio/512.wav"
+      },
+      {
+        "trackId": 13,
+        "trackName": "Anyway",
+        "trackAudio": "audio/513.wav"
+      },
+      {
+        "trackId": 14,
+        "trackName": "Here Comes The Supernatural Anaesthetist",
+        "trackAudio": "audio/514.wav"
+      },
+      {
+        "trackId": 15,
+        "trackName": "The Lamia",
+        "trackAudio": "audio/515.wav"
+      },
+      {
+        "trackId": 16,
+        "trackName": "Silent Sorrow In Empty Boats",
+        "trackAudio": "audio/516.wav"
+      },
+      {
+        "trackId": 17,
+        "trackName": "The Colony Of Slippermen",
+        "trackAudio": "audio/517.wav"
+      },
+      {
+        "trackId": 18,
+        "trackName": "Ravine",
+        "trackAudio": "audio/518.wav"
+      },
+      {
+        "trackId": 19,
+        "trackName": "The Light Dies Down On Broadway",
+        "trackAudio": "audio/519.wav"
+      },
+      {
+        "trackId": 20,
+        "trackName": "Riding The Scree",
+        "trackAudio": "audio/520.wav"
+      },
+      {
+        "trackId": 21,
+        "trackName": "In The Rapids",
+        "trackAudio": "audio/521.wav"
+      },
+      {
+        "trackId": 22,
+        "trackName": "It",
+        "trackAudio": "audio/522.wav"
+      }
+    ]
+  },
+  {
+    "albumId": 6,
+    "name": "A Trick Of The Tail",
+    "releaseYear": 1976,
+    "cover": "images/atott.jpg",
+    "artist": "Genesis",
+    "description": "A Trick Of The Tail was released in February 1976 on Charisma Records and was the first album to feature drummer Phil Collins as lead vocalist following the departure of Peter Gabriel.\n\nIt was a critical and commercial success in the UK and U.S., reaching No. 3 and No. 31 respectively.",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "Dance On A Volcano",
+        "trackAudio": "audio/60.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "Entangled",
+        "trackAudio": "audio/61.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "Squonk",
+        "trackAudio": "audio/62.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "Mad Man Moon",
+        "trackAudio": "audio/63.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "Robbery, Assault And Battery",
+        "trackAudio": "audio/64.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "Ripples",
+        "trackAudio": "audio/65.wav"
+      },
+      {
+        "trackId": 6,
+        "trackName": "A Trick Of The Tail",
+        "trackAudio": "audio/66.wav"
+      },
+      {
+        "trackId": 7,
+        "trackName": "Los Endos",
+        "trackAudio": "audio/67.wav"
+      }
+    ]
+  },
+  {
+    "albumId": 7,
+    "name": "Wind & Wuthering",
+    "releaseYear": 1976,
+    "cover": "images/waw.jpg",
+    "artist": "Genesis",
+    "description": "Wind & Wuthering is the eighth studio album by English progressive rock band Genesis. It was released on 17 December 1976 on Charisma Records and is their last studio album to feature guitarist Steve Hackett.\n\nThe album received a positive response from critics and contributed to the band's growing popularity in the US. It reached No. 7 in the UK and No. 26 in the US and sold steadily, eventually reaching Gold certification.",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "Eleventh Earl Of Mar",
+        "trackAudio": "audio/70.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "One For The Vine",
+        "trackAudio": "audio/71.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "Your Own Special Way",
+        "trackAudio": "audio/72.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "Wot Gorilla?",
+        "trackAudio": "audio/73.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "All In A Mouse's Night",
+        "trackAudio": "audio/74.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "Blood On The Rooftops",
+        "trackAudio": "audio/75.wav"
+      },
+      {
+        "trackId": 6,
+        "trackName": "'Unquiet Slumbers For The Sleepers...",
+        "trackAudio": "audio/76.wav"
+      },
+      {
+        "trackId": 7,
+        "trackName": "...In That Quiet Earth'",
+        "trackAudio": "audio/77.wav"
+      },
+      {
+        "trackId": 8,
+        "trackName": "Afterglow",
+        "trackAudio": "audio/78.wav"
+      }
+    ]
+  },
+  {
+    "albumId": 8,
+    "name": "...And Then There Were Three",
+    "releaseYear": 1978,
+    "cover": "images/attwt.jpg",
+    "artist": "Genesis",
+    "description": "And Then There Were Three is Genesis' first recorded album as a trio of singer/drummer Phil Collins, keyboardist Tony Banks, and bassist/guitarist Mike Rutherford following the departure of guitarist Steve Hackett.\n\nThe album marked a change in the band's sound, mixing elements of their progressive rock roots with more accessible material, and Collins contributing to more of the group's songwriting.",
+    "tracks": [
+      {
+        "trackId": 0,
+        "trackName": "Down And Out",
+        "trackAudio": "audio/80.wav"
+      },
+      {
+        "trackId": 1,
+        "trackName": "Undertow",
+        "trackAudio": "audio/81.wav"
+      },
+      {
+        "trackId": 2,
+        "trackName": "Ballad Of Big",
+        "trackAudio": "audio/82.wav"
+      },
+      {
+        "trackId": 3,
+        "trackName": "Snowbound",
+        "trackAudio": "audio/83.wav"
+      },
+      {
+        "trackId": 4,
+        "trackName": "Burning Rope",
+        "trackAudio": "audio/84.wav"
+      },
+      {
+        "trackId": 5,
+        "trackName": "Deep In The Motherlode",
+        "trackAudio": "audio/85.wav"
+      },
+      {
+        "trackId": 6,
+        "trackName": "Many Too Many",
+        "trackAudio": "audio/86.wav"
+      },
+      {
+        "trackId": 7,
+        "trackName": "Scenes From A Night's Dream",
+        "trackAudio": "audio/87.wav"
+      },
+      {
+        "trackId": 8,
+        "trackName": "Say It's Alright Joe",
+        "trackAudio": "audio/88.wav"
+      },
+      {
+        "trackId": 9,
+        "trackName": "The Lady Lies",
+        "trackAudio": "audio/89.wav"
+      },
+      {
+        "trackId": 10,
+        "trackName": "Follow You Follow Me",
+        "trackAudio": "audio/810.wav"
+      }
+    ]
+  }
+]
